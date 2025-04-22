@@ -154,7 +154,7 @@ ORDER BY avg_sales DESC;
 - **Beauty** products were most popular among younger customers on average.
 - 🖥️ **Electronics** attracted slightly older customers compared to Beauty.
 - 👕 **Clothing** had the oldest average customer age among the three categories.
-- 
+
 ### 4. Average Quantity Sold per Category
 - Certain categories showed consistently **higher purchase volumes**, indicating fast-moving products.
 - Useful for **inventory management** and **stock prioritization**.
