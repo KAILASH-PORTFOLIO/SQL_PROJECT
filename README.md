@@ -144,31 +144,37 @@ ORDER BY avg_sales DESC;
 
 ## Findings
 
-## 📌 Key Findings
+### 1. Total Sales by Product Category
+- Categories **Electronics** generated the highest revenue.
 
-- 🏆 **Top Categories**  
-  Certain product categories (e.g., *Clothing*, *Electronics*) generated the highest total sales. These are key drivers of revenue.
+### 2. Gender Contribution to Sales
+- **Female customers** contributed slightly more to total sales than male customers.
 
-- 👥 **Gender Spending Trends**  
-  Male customers contributed slightly more to overall sales than female customers.
+### 3. Average Customer Age per Category
+- **Beauty** products were most popular among younger customers on average.
+- 🖥️ **Electronics** attracted slightly older customers compared to Beauty.
+- 👕 **Clothing** had the oldest average customer age among the three categories.
+- 
+### 4. Average Quantity Sold per Category
+- Certain categories showed consistently **higher purchase volumes**, indicating fast-moving products.
+- Useful for **inventory management** and **stock prioritization**.
 
-- 🎯 **Customer Age Insights**  
-  Average customer age varies across categories, which is useful for targeted marketing strategies.
+### 5. Top 5 Customers by Spending
+- The top 5 customers had **significantly higher total sales** than the average.
+- These high-value customers are ideal for **loyalty programs** or **exclusive offers**.
 
-- 📦 **Quantity Sold by Category**  
-  Some categories sold in higher quantities, indicating fast-moving inventory.
+### 6. Average Profit Margin per Category
+- Categories like **Electronics** had **higher average profit margins**, making them prime candidates for **strategic focus**.
+- Helps identify **profit-boosting** product lines.
 
-- 💰 **Top Customers**  
-  The top 5 customers had significantly higher spending than average — potential targets for loyalty programs.
+### 7. Correlation Between Quantity and Total Sale
+- A strong **positive correlation** exists between quantity sold and total sale amount.
+- Confirms expected sales behavior — **more units sold = more revenue**.
 
-- 🕐 **Peak Sales Time**  
-  The **Afternoon** recorded the highest average sales, showing when customer activity is at its peak.
+### 8. Time of Day with Highest Average Sales
+- The **Afternoon** time block had the **highest average sales**, followed by Morning and Evening.
+- Ideal for scheduling **promotions or targeted campaigns** during peak sales hours.
 
-- 📈 **Profit Margin Analysis**  
-  Categories like *Electronics* had stronger profit margins — key for pricing and promotion planning.
-
-- 🔁 **Quantity vs. Sales Correlation**  
-  A positive correlation was observed between quantity sold and total sale value.
 
 
 > *This project is part of my portfolio as I pursue a career in data analytics. Feel free to connect and collaborate!*
